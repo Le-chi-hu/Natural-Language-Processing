@@ -9,8 +9,6 @@
 - `nlp_as3_B1228005/`：生醫命名實體辨識
 - `nlp_as4_B1228005/`：LLM Function Calling
 - `Final Project/`：期末專題，自動作文評分
-- `README.md`：專案內容介紹
-- `.gitignore`：Git 忽略檔案設定
 
 ## 作業內容
 
